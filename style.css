@@ -1,0 +1,97 @@
+
+
+body{
+    color: rgb(141, 91, 26);
+    background-color: blanchedalmond;
+}
+
+
+.nav-bar{
+    border: solid;
+}
+
+.custom-paragraph-2{
+    font-size: larger;
+}
+
+.custom-paragraph-3{
+    font-style: italic;
+}
+
+.custom-paragraph-4{
+    font-size: larger;
+    font-style: oblique;
+}
+
+.custom-paragraph-5{
+    font-size: larger;
+    font-style: oblique;
+}
+
+.custom-paragraph-6{
+    font-size: larger;
+    font-style: oblique;
+}
+
+.hl{
+    color: brown;
+}
+
+.custom-paragraph-7{
+    font-style: italic;
+}
+
+.education{
+    display: inline-block;
+  border: 2px solid black; /* Adjust border size and color as needed */
+  padding: 5px; /* Optional: adds some space inside the border */
+  text-decoration: underline;
+}
+
+
+.date1{
+color: darkgreen;
+}
+
+.date2{
+color: darkgreen;
+}
+
+.work{
+    display: inline-block;
+  border: 2px solid black; /* Adjust border size and color as needed */
+  padding: 5px; /* Optional: adds some space inside the border */
+  text-decoration: underline;
+}
+
+.date3{
+    color: darkgreen;
+    }
+
+
+    .date4{
+        color: darkgreen;
+        }
+
+
+
+.develop{
+    display: inline-block;
+  border: 2px solid black; /* Adjust border size and color as needed */
+  padding: 5px; /* Optional: adds some space inside the border */
+  text-decoration: underline;
+}
+
+.final{
+    font-style: italic;
+}
+
+
+
+.head{
+    text-decoration: underline;
+}
+
+.wrap-up{
+    font-style: italic;
+}
